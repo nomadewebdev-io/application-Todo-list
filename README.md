@@ -2,6 +2,10 @@
 
 Une application web simple et élégante pour gérer vos tâches quotidiennes. Créée avec HTML, CSS et JavaScript vanilla.
 
+## 🌐 Déploiement en ligne
+
+**[➡️ Accédez à l'application déployée sur Netlify](https://application-list-de-tache.netlify.app/)**
+
 ## ✨ Fonctionnalités
 
 - ✅ **Ajouter des tâches** - Créez rapidement vos tâches via un champ de texte
@@ -29,7 +33,7 @@ Aucune dépendance externe ! L'application ne nécessite que :
    ```
 
 2. **Ouvrez l'application**
-   - Ouvrez simplement le fichier `html/index.html` dans votre navigateur
+   - Ouvrez simplement le fichier `index.html` dans votre navigateur
    - Ou utilisez un serveur local (optionnel) :
      ```bash
      # Avec Python 3
@@ -40,9 +44,9 @@ Aucune dépendance externe ! L'application ne nécessite que :
      ```
 
 3. **Accédez à l'application**
-   - http://localhost:8000/html/index.html
+   - http://localhost:8000
 
-##  Utilisation
+## 📖 Utilisation
 
 1. **Ajouter une tâche** : Tapez votre tâche dans le champ de texte et cliquez sur "Ajouter" (ou appuyez sur Entrée)
 2. **Compléter une tâche** : Cochez la case à côté de la tâche pour la marquer comme complétée
@@ -57,7 +61,7 @@ Aucune dépendance externe ! L'application ne nécessite que :
 ### Avec des tâches
 ![Screenshot - Avec tâches](images/screenshot-with-tasks.png)
 
-##  Structure du projet
+## 🏗️ Structure du projet
 
 ```
 todo-app/
@@ -69,7 +73,7 @@ todo-app/
 └── README.md           # Ce fichier
 ```
 
-##  Détails techniques
+## 🔧 Détails techniques
 
 ### Technologies utilisées
 - **HTML5** - Structure de la page
@@ -91,7 +95,7 @@ Les tâches sont stockées localement dans le **localStorage** du navigateur :
 | Edge | ✅ Oui |
 | IE 11 | ❌ Non |
 
-##  Design
+## 🎨 Design
 
 L'application utilise :
 - Dégradé de couleur principal : bleu et violet
@@ -99,7 +103,7 @@ L'application utilise :
 - Design responsive pour tous les écrans
 - Animations fluides pour une meilleure UX
 
-##  Améliorations futures possibles
+## 💡 Améliorations futures possibles
 
 - [ ] Ajouter la possibilité de modifier une tâche existante
 - [ ] Implémenter des catégories ou des étiquettes pour les tâches
@@ -110,11 +114,11 @@ L'application utilise :
 - [ ] Exporter/importer les tâches (JSON, CSV)
 - [ ] Notifications/rappels pour les tâches
 
-##  Signaler un bug
+## 🐛 Signaler un bug
 
 Si vous trouvez un bug, veuillez créer une **issue** dans le repository.
 
-##  Licence
+## 📄 Licence
 
 Ce projet est libre d'utilisation. Utilisez-le comme bon vous semble !
 
