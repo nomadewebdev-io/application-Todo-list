@@ -49,6 +49,14 @@ Aucune dépendance externe ! L'application ne nécessite que :
 3. **Supprimer une tâche** : Cliquez sur le bouton "Supprimer" pour enlever la tâche
 4. **Voir votre progression** : Le compteur en bas affiche combien de tâches vous avez complétées
 
+## 📸 Captures d'écran
+
+### État initial (vide)
+![Screenshot - Vide](images/screenshot-empty.png)
+
+### Avec des tâches
+![Screenshot - Avec tâches](images/screenshot-with-tasks.png)
+
 ##  Structure du projet
 
 ```
